@@ -39,10 +39,6 @@ HelloWorld/
 └── ...              # Project files
 ```
 
-## Screenshots
-
-*(Add screenshots here if desired)*
-
 ## Credits
 
 - Built with [raylib](https://www.raylib.com/)
